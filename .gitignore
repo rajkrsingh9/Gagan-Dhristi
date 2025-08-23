@@ -3,6 +3,8 @@ processing\token.json
 
 processing\credentials.json
 
+processing/token.json
+processing/credentials.json
 
 backend\.env
 
