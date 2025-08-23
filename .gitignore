@@ -1,0 +1,55 @@
+processing\token.json
+
+
+processing\credentials.json
+
+
+backend\.env
+
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Environment files
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Python virtual environment
+venv/
+.env/
+*.egg-info/
+dist/
+build/
+
+# Temporary / output files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# System / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Backend temp downloads
+backend/temp_downloads/
+
+# Processing sensitive files
+processing/credentials.json
+processing/token.json
+processing/monitoring_tasks.json
