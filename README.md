@@ -7,6 +7,17 @@ The system automates the process of comparing two satellite images of the same l
 
 ---
 
+---
+## 🏆 Achievements
+
+This project advanced to the **Finals of ISRO BAH 2025** 🚀,  
+representing our team **The Cache Crew**.
+
+**Team Members:**
+- [Raj Kumar Singh](https://github.com/rajkrsingh9)  
+- Amol Chaurasia
+
+---
 ## 🚀 Key Features
 
 - **Automated Monitoring & Scheduling**  
