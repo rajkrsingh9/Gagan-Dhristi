@@ -20,6 +20,7 @@ The system automates the process of comparing two satellite images of the same l
 ### Downloadable Outputs
 ![last view](https://github.com/user-attachments/assets/c4a74116-73c1-4802-9a58-88e5c5425d22)
 
+<img src="https://github.com/user-attachments/assets/383fa584-021b-4ce3-9a9d-98dd350f0246" width="300" alt="change detection">
 
 
 ---
