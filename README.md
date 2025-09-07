@@ -7,6 +7,15 @@ The system automates the process of comparing two satellite images of the same l
 
 ---
 
+## Glances of this masterpiece
+![First View Gagan-Dhristi](https://github.com/user-attachments/assets/18956ee9-c04f-4d82-8d2b-e5904732b6c4)
+![change detection](https://github.com/user-attachments/assets/383fa584-021b-4ce3-9a9d-98dd350f0246)
+
+![Live Monitoring](https://github.com/user-attachments/assets/4730f251-802f-4c02-a579-bedbb77b5147)
+![last view](https://github.com/user-attachments/assets/c4a74116-73c1-4802-9a58-88e5c5425d22)
+
+
+
 ---
 ## 🏆 Achievements
 
@@ -14,8 +23,9 @@ This project advanced to the **Finals of ISRO BAH 2025** 🚀,
 representing our team **The Cache Crew**.
 
 **Team Members:**
-- [Raj Kumar Singh](https://github.com/rajkrsingh9)  
-- Amol Chaurasia
+- [Rashmita Debnath](https://github.com/Rashmita-17)
+- [Amol Chaurasia](https://github.com/Amol-Cld)
+- [Aharshi Lodh](https://github.com/Aharshi-44)
 
 ---
 ## 🚀 Key Features
