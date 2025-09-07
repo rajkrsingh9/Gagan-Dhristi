@@ -11,19 +11,32 @@ The system automates the process of comparing two satellite images of the same l
 ### Change Detection
 <img src="https://github.com/user-attachments/assets/18956ee9-c04f-4d82-8d2b-e5904732b6c4" height="400" alt="change detection">
 
-### Detection ALgorithms
-<img src="https://github.com/user-attachments/assets/383fa584-021b-4ce3-9a9d-98dd350f0246" width="300" alt="change detection">
 
-### Robust Monitoring
-<img src="https://github.com/user-attachments/assets/4730f251-802f-4c02-a579-bedbb77b5147" height="400" alt="change detection">
+<div align="center">
+  <h2>Detection Algorithms and Robust Monitoring</h2>
+  <img src="https://github.com/user-attachments/assets/383fa584-021b-4ce3-9a9d-98dd350f0246" width="25%" alt="change detection">
+  <img src="https://github.com/user-attachments/assets/4730f251-802f-4c02-a579-bedbb77b5147" width="65%" alt="change detection">
+ 
+</div>
 
 ### Downloadable Outputs
 <img src="https://github.com/user-attachments/assets/c4a74116-73c1-4802-9a58-88e5c5425d22" height="400" alt="change detection">
 
 
+## Outputs Files and Images(Mask)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/bcd44bd4-8968-41bb-ad6c-1f046b6d1fc8" alt="Image 1" width="45%">
+  <img src="https://github.com/user-attachments/assets/3eef86ab-2e71-4d22-9cb1-e2c2f4c9903d" alt="Image 2" width="45%">
+</div>
+<img src="https://github.com/user-attachments/assets/00cee112-ac59-4ff2-9321-8701ef3652a0" alt="Image 3" width="98%">
+
+### Email Alerts
+
+<img width="837" height="501" alt="image" src="https://github.com/user-attachments/assets/e2c3b58d-4473-4cf7-b11d-a9c901c5498e" />
 
 
----
+
 ## 🏆 Achievements
 
 This project advanced to the **Finals of ISRO BAH 2025** 🚀,  
