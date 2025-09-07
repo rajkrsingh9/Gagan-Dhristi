@@ -8,10 +8,16 @@ The system automates the process of comparing two satellite images of the same l
 ---
 
 ## Glances of this masterpiece
+### Change Detection
 ![First View Gagan-Dhristi](https://github.com/user-attachments/assets/18956ee9-c04f-4d82-8d2b-e5904732b6c4)
+
+### Detection ALgorithms
 ![change detection](https://github.com/user-attachments/assets/383fa584-021b-4ce3-9a9d-98dd350f0246)
 
+### Robust Monitoring
 ![Live Monitoring](https://github.com/user-attachments/assets/4730f251-802f-4c02-a579-bedbb77b5147)
+
+### Downloadable Outputs
 ![last view](https://github.com/user-attachments/assets/c4a74116-73c1-4802-9a58-88e5c5425d22)
 
 
