@@ -55,3 +55,6 @@ backend/temp_downloads/
 processing/credentials.json
 processing/token.json
 processing/monitoring_tasks.json
+
+
+# node-modules
