@@ -43,9 +43,7 @@ This project advanced to the **Finals of ISRO BAH 2025** 🚀,
 representing our team **The Cache Crew**.
 
 **Team Members:**
-- [Rashmita Debnath](https://github.com/Rashmita-17)
 - [Amol Chaurasia](https://github.com/Amol-Cld)
-- [Aharshi Lodh](https://github.com/Aharshi-44)
 
 ---
 ## 🚀 Key Features
